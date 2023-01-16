@@ -1,0 +1,22 @@
+[nat]=native
+[ahk]=by ahk and need to change it no native
+[?]=need to add it
+[!] need to fix it
+*********genral***************
+pause the ahk script=  F4
+
+
+
+*********3d view&edit******
+[nat]3rd view=  space
+
+[ahk]3rd view=  r_mouse
+[ahk]insert(i)= t
+[ahk]left-menue(t) =  shift+t
+[ahk]right-menue(n)=  shift+6
+[ahk]move/size in Y axes=  y
+[ahk]circle select=  sift+c
+[ahk]hide=  f1
+[ahk]unhide=  shift+f1
+
+[?]??????????=  mid_mouse 
