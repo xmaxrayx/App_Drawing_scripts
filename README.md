@@ -10,7 +10,7 @@ scripts and automation for drawing apps
 
 #### Blender 
 
-* WIP [one-handed keybored shortcuts] (https://github.com/xmaxrayx/Drawing_scripts/tree/main/Blender)
+* WIP [one-handed keybored shortcuts](https://github.com/xmaxrayx/Drawing_scripts/tree/main/Blender)
 
 #### SAI2 
 - (planned)
