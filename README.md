@@ -5,7 +5,7 @@ scripts and automation for drawing apps
 ## contain: 
 
 #### Sketchbok 
- * [`F1_to_save.ahk`](https://github.com/xmaxrayx/Drawing_scripts/tree/main/SketchbookPro) script to save your skitch and open new progect with one butten.
+ * [`F1_to_save.ahk`](/SketchbookPro) script to save your skitch and open new progect with one butten.
 
 
 #### Blender 
