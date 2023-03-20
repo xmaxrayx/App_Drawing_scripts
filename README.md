@@ -5,12 +5,12 @@ scripts and automation for drawing apps
 ## contain: 
 
 #### Sketchbok 
- * [`F1_to_save.ahk`](Drawing_scripts/SketchbookPro/) script to save your skitch and open new progect with one butten.
+ * [`F1_to_save.ahk`](https://github.com/xmaxrayx/Drawing_scripts/tree/main/SketchbookPro) script to save your skitch and open new progect with one butten.
 
 
 #### Blender 
 
-* WIP (one-handed keybored shortcuts)
+* WIP [one-handed keybored shortcuts] (https://github.com/xmaxrayx/Drawing_scripts/tree/main/Blender)
 
 #### SAI2 
 - (planned)
