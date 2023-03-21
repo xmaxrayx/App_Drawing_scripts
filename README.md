@@ -13,4 +13,4 @@ scripts and automation for drawing apps
 * WIP [one-handed keybored shortcuts](https://github.com/xmaxrayx/Drawing_scripts/tree/main/Blender)
 
 #### SAI2 
-- (planned)
+- [`click here`](/SIA2) (WIP)
