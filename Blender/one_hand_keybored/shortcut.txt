@@ -9,7 +9,7 @@ pause the ahk script=  F4
 
 *********3d view&edit******
 [nat]3rd view=  space
-
+-----
 [ahk]3rd view=  r_mouse
 [ahk]insert(i)= t
 [ahk]left-menue(t) =  shift+t
